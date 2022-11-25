@@ -40,7 +40,3 @@ while True:
     elif user_input == '5':
         print('Пока!')
         break
-
-
-
-
